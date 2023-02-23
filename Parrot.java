@@ -17,6 +17,6 @@ public class Parrot
 
     Parrot p = new Parrot ();
     int binParrot = p.binParrot (100);
-    System.out.println (String.format ("Trzeba pytaD %s razy.", binParrot));
+    System.out.println (String.format ("Trzeba pytać %s razy.", binParrot));
   }
 }
